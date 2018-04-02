@@ -58,12 +58,13 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.ROMBuildTypePreferenceController"/>
 
-    <!-- ROM Maintainer, in case of Shsihufied Builds-->
+    <!-- BTLGxWeeabo maintainer -->
     <Preference
-        android:key="who_to_blame"
-        android:title="@string/device_maintainer"
+        android:key="maintainer"
+        android:title="@string/maintainer"
+        android:summary="@string/summary_placeholder"
         settings:enableCopying="true"
-        settings:controller="com.android.settings.deviceinfo.firmwareversion.ROMShishufiedMaintainerPreferenceController"/>
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.WeeaboMaintainerPreferenceController"/>
 
     <!-- Android version -->
     <Preference
