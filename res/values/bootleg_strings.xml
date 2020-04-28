@@ -50,7 +50,7 @@
     <!-- Build types, now with translations -->
     <string name="bootleg_type_official">Kōshiki. 公式</string>
     <string name="bootleg_type_unofficial">Unofficial</string>
-    <string name="bootleg_type_unknown">Gomen'nasai. ごめんなさい</string>
+    <string name="bootleg_type_unknown">Gomennasai.</string>
     <string name="bootleggers_releasetype_skeleton">%s (%s)</string>
 
     <!-- Notch behavior -->
