@@ -12,7 +12,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Bootleggers version in About phone -->
-    <string name="rom_version_title">Bootleggers version</string>
+    <string name="rom_version_title">BTLGxWeeabo version.</string>
 
     <!-- Fingerprint location message - default -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
@@ -39,18 +39,18 @@
     <string name="device_info_protected_single_press">Tap to show info</string>
 
     <!-- Bootleg Dumpster -->
-    <string name="bootleg_dumpster_title">Bootleg Dumpster</string>
-    <string name="bootleg_dumpster_summary">Where the broken stuff is placed</string>
+    <string name="bootleg_dumpster_title">BTLG. カスタマイズ</string>
+    <string name="bootleg_dumpster_summary">a gathering place for weeabo</string>
 
     <!-- Bootleggers extra data -->
     <!-- Build date, parsed? -->
-    <string name="bootleggers_build_date">Build date</string>
+    <string name="bootleggers_build_date">Kensetsu-bi. 建設日</string>
     <!-- About phone screen, device maintainer name -->
-    <string name="device_maintainer">Who to blame (Maintainer)</string>
+    <string name="device_maintainer">Mentena. メンテナ</string>
     <!-- Build types, now with translations -->
-    <string name="bootleg_type_official">Official</string>
+    <string name="bootleg_type_official">Kōshiki. 公式</string>
     <string name="bootleg_type_unofficial">Unofficial</string>
-    <string name="bootleg_type_unknown">Unsupported. ¯\\_(ツ)_/¯</string>
+    <string name="bootleg_type_unknown">Gomen'nasai. ごめんなさい</string>
     <string name="bootleggers_releasetype_skeleton">%s (%s)</string>
 
     <!-- Notch behavior -->
